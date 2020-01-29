@@ -1,0 +1,22 @@
+ 1) What is the most important tool for adding colors to certain areas of the page rather than the entire background ?
+ans::table
+
+
+2) Which of the following is NOT a valid pair for browser safe colors ?
+ans::AA
+
+
+3) Adding a border to your image helps the visitor to recognize it as what ?
+ans::a link
+
+
+4) Why should you specify a background color if you are using an image for the actual background of your page ?
+ans::  The background color will be shown until the image loads
+
+
+5) What is used to store information usually relevant to browsers and searchengines?
+ans:: Metatags
+
+
+6) Why should you add alternative text to your images ?
+ans:: So the users can get an idea of what the image is before it loads
